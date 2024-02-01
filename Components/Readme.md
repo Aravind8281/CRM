@@ -1,7 +1,7 @@
 1. **Customer Data Management:**
    - **Explanation:** Customer data management involves the collection, organization, and maintenance of customer information. This includes contact details, interactions, purchase history, and any other relevant data.
    - **Working:** CRM systems provide a centralized database where businesses can store and manage customer data. Information can be entered manually or imported from various sources, ensuring a comprehensive view of each customer.
-
+ 
    - **Real-world Explanation:** In a retail setting, customer data management ensures that details such as purchase preferences, sizes, and contact information are readily available. This allows for personalized shopping experiences, targeted promotions, and efficient order processing.
 
    - **Use Case:** A clothing retailer using CRM might use customer data to send personalized promotions, recommend products based on past purchases, and manage inventory based on customer preferences.
