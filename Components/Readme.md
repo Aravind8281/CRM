@@ -1,4 +1,4 @@
-1. **Customer Data Management:**
+1. **Customer Data Management:** 
    - **Explanation:** Customer data management involves the collection, organization, and maintenance of customer information. This includes contact details, interactions, purchase history, and any other relevant data.
    - **Working:** CRM systems provide a centralized database where businesses can store and manage customer data. Information can be entered manually or imported from various sources, ensuring a comprehensive view of each customer.
  
